@@ -1,0 +1,112 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Le Tien Luan
+theme: PaperMod
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        profileMode:
+            enabled: true
+            homeInfoParams:
+            Title: "Hi! My name Luan"
+            subtitle: "I'm a Data Analyst and I'm delighted to introduce myself and my work. With my data analysis skills and understanding of numbers, I have the ability to transform complex data into valuable insights and provide important strategic guidance for businesses."
+            buttons:
+                - name: Blog
+                  url: posts
+                - name: Profile Mode
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+  
+            socialIcons:
+                  - name: github
+                    url: "https://github.com/luanletien"
+                  - name: KoFi
+                    url: "https://luanletien.com"
+                  - name: linkedin
+                    url: "index.xml"
+                  - name: Rss
+                    url: "index.xml"
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: WiKi
+                  url: https://github.com/luanletien
+                - name: Discord
+                  url: https://discord.gg/
+
+    vn:
+        languageName: ":VN:"
+        languageAltTitle: Việt Nam
+        weight: 2
+        title: Lê Tiến Luân
+        taxonomies:
+          category: Danh mục
+          tag: tags
+          series: Series
+        profileMode:
+            enabled: true
+            homeInfoParams:
+            Title: Xin chào! Tôi là Luân"
+            subtitle: "Tôi là một Data Analyst và rất vui được giới thiệu về công việc của mình. Với kỹ năng phân tích dữ liệu và sự am hiểu về số liệu, tôi có khả năng chuyển đổi những dữ liệu phức tạp thành thông tin hữu ích và cung cấp những hướng dẫn định hướng quan trọng cho doanh nghiệp."
+            buttons:
+                - name: Bài Viết
+                  url: Blog
+                - name: CV
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+  
+            socialIcons:
+                  - name: github
+                    url: "https://github.com/luanletien"
+                  - name: KoFi
+                    url: "https://luanletien.com"
+                  - name: linkedin
+                    url: "index.xml"
+                  - name: Rss
+                    url: "index.xml"
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: WiKi
+                  url: https://github.com/luanletien
+                - name: Discord
+                  url: https://discord.gg/
+
+
+# nếu muốn trang đầu có hiển thị bài viết ở trang nhất
+# params:                  
+#   homeInfoParams:
+#           Title: "Xin chào! Tôi là Luân"
+#           Content: >
+#                Tôi là một Data Analyst và rất vui được giới thiệu về công việc của mình. Với kỹ năng phân tích dữ liệu và sự am hiểu về số liệu, tôi có khả năng chuyển đổi những dữ liệu phức tạp thành thông tin hữu ích và cung cấp những hướng dẫn định hướng quan trọng cho doanh nghiệp.
+#   socialIcons:
+#         - name: github
+#           url: "https://github.com/luanletien"
+#         - name: KoFi
+#           url: "https://luanletien.com"
+#         - name: linkedin
+#           url: "index.xml"
+#         - name: Rss
+#           url: "index.xml"
+
+  
