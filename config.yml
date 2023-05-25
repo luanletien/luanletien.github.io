@@ -110,9 +110,6 @@ languages:
                 - name: Discord
                   url: https://discord.gg/
 
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
   
 # nếu muốn trang đầu có hiển thị bài viết ở trang nhất
 # params:                  
