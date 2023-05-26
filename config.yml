@@ -33,7 +33,7 @@ languages:
             enabled: true
             homeInfoParams:
             Title: Hi! My name Luan
-            subtitle: "I'm a Data Analyst and I'm delighted to introduce myself and my work. With my data analysis skills and understanding of numbers, I have the ability to transform complex data into valuable insights and provide important strategic guidance for businesses."
+            subtitle: "I'm Luan! Happy to share my insights about Data Analyst field with everyone!"
             buttons:
                 - name: Blog
                   url: posts
@@ -78,7 +78,7 @@ languages:
             enabled: true
             homeInfoParams:
             Title: Xin chào! Tôi là Luân"
-            subtitle: "Tôi là một Data Analyst và rất vui được giới thiệu về công việc của mình. Với kỹ năng phân tích dữ liệu và sự am hiểu về số liệu, tôi có khả năng chuyển đổi những dữ liệu phức tạp thành thông tin hữu ích và cung cấp những hướng dẫn định hướng quan trọng cho doanh nghiệp."
+            subtitle: "Tôi là Luân! Rất vui được chia sẽ những hiểu biết của tôi về lính vực Data Analyst với mọi người!"
             buttons:
                 - name: Bài Viết
                   url: Blog
