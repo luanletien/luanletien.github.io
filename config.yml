@@ -32,7 +32,7 @@ languages:
         profileMode:
             enabled: true
             homeInfoParams:
-            Title: "Hi! My name Luan"
+            Title: Hi! My name Luan
             subtitle: "I'm a Data Analyst and I'm delighted to introduce myself and my work. With my data analysis skills and understanding of numbers, I have the ability to transform complex data into valuable insights and provide important strategic guidance for businesses."
             buttons:
                 - name: Blog
