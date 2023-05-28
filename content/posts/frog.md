@@ -2,13 +2,13 @@
 title: "The Frog at the bottom of Well"
 date: 2023-05-27T13:38:01+07:00
 draft: false
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description: "A story with many deep lessons"
 FAtags: ["story"]
 FAcategories: ["story"]
 ShowToc: true
 TocOpen: true
 ---
-The Chinese of Jing Di Zhi Wa is 井底之蛙. This idiom is also known as Look At The Sky From The Bottom Of A Well--Zuo Jing Guan Tian (坐井观天).
+>The Chinese of Jing Di Zhi Wa is 井底之蛙. This idiom is also known as Look At The Sky From The Bottom Of A Well--Zuo Jing Guan Tian (坐井观天).
 
 Once upon a time, there lived a frog in a shallow well. One day, a turtle who used to live in the East Sea travelled there and happened to see him.
 
