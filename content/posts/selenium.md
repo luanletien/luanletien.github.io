@@ -1,10 +1,10 @@
 ---
-title: "Tất tần tật về Selenium"
+title: "Tìm hiểu về cách lấy giữ liệu bằng Selenium"
 date: 2023-06-02T15:26:48+07:00
 draft: false
+ShowToc: true
+comments: true
 ---
-
-# Toàn bộ về Selenium
 
 ## Tạo một đối tượng WebDriver
 - Tùy thuộc vào trình duyệt (Chrome, Firefox, etc.), sử dụng lớp tương ứng trong `selenium.webdriver`
