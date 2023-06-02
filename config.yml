@@ -22,48 +22,48 @@ permalinks:
 defaultContentLanguage: vn 
 defaultContentLanguageInSubdir: true
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
-        profileMode:
-            enabled: true
-            homeInfoParams:
-            Title: Hi! My name Luan
-            subtitle: "I'm Luan! Happy to share my insights about Data Analyst field with everyone!"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Profile Mode
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+#     en:
+#         languageName: "English"
+#         weight: 1
+#         taxonomies:
+#           category: categories
+#           tag: tags
+#           series: series
+#         profileMode:
+#             enabled: true
+#             homeInfoParams:
+#             Title: Hi! My name Luan
+#             subtitle: "I'm Luan! Happy to share my insights about Data Analyst field with everyone!"
+#             buttons:
+#                 - name: Blog
+#                   url: posts
+#                 - name: Profile Mode
+#                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   
-            socialIcons:
-                  - name: github
-                    url: "https://github.com/luanletien"
-                  - name: KoFi
-                    url: "https://luanletien.com"
-                  - name: linkedin
-                    url: "index.xml"
-                  - name: Rss
-                    url: "index.xml"
-        menu:
-            main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: WiKi
-                  url: https://github.com/luanletien
-                - name: Discord
-                  url: https://discord.gg/
+#             socialIcons:
+#                   - name: github
+#                     url: "https://github.com/luanletien"
+#                   - name: KoFi
+#                     url: "https://luanletien.com"
+#                   - name: linkedin
+#                     url: "index.xml"
+#                   - name: Rss
+#                     url: "index.xml"
+#         menu:
+#             main:
+#                 - name: Archive
+#                   url: archives
+#                   weight: 5
+#                 - name: Search
+#                   url: search/
+#                   weight: 10
+#                 - name: Tags
+#                   url: tags/
+#                   weight: 10
+#                 - name: WiKi
+#                   url: https://github.com/luanletien
+#                 - name: Discord
+#                   url: https://discord.gg/
 
     vn:
         languageName: ":vietnam:"
