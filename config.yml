@@ -19,7 +19,7 @@ permalinks:
   post: "/:title/"
   # post: "/:year/:month/:day/:title/"
 
-defaultContentLanguage: en 
+defaultContentLanguage: vn 
 defaultContentLanguageInSubdir: true
 languages:
     en:
@@ -111,7 +111,8 @@ languages:
                 - name: Discord
                   url: https://discord.gg/
 
-  
+  params: 
+    comments: true
 # nếu muốn trang đầu có hiển thị bài viết ở trang nhất
 # params:                  
 #   homeInfoParams:
