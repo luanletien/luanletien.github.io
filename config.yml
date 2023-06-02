@@ -67,6 +67,7 @@ languages:
 
     vn:
         languageName: ":vietnam:"
+        disqusShortname: disqus_vojMy1aegU
         languageAltTitle: Việt Nam
         weight: 2
         title: Lê Tiến Luân
