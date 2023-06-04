@@ -4,8 +4,7 @@ title: Le Tien Luan
 theme: PaperMod
 
 enableRobotsTXT: true
-enableEmoji: true 
-enableRobotsTXT: true
+enableEmoji: true
 
 buildDrafts: false
 buildFuture: false
@@ -13,119 +12,53 @@ buildExpired: false
 
 minify:
   disableXML: true
-  # minifyOutput: true
 
 permalinks: 
   post: "/:title/"
-  # post: "/:year/:month/:day/:title/"
 
-defaultContentLanguage: vn 
+defaultContentLanguage: vn
 defaultContentLanguageInSubdir: true
 languages:
-    en:
-        languageName: "English"
-        weight: 2
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
-        profileMode:
-            enabled: true
-            homeInfoParams:
-            Title: Hi! My name Luan
-            subtitle: "I'm Luan! Happy to share my insights about Data Analyst field with everyone!"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Profile Mode
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-  
-            socialIcons:
-                  - name: github
-                    url: "https://github.com/luanletien"
-                  - name: KoFi
-                    url: "https://luanletien.com"
-                  - name: linkedin
-                    url: "index.xml"
-                  - name: Rss
-                    url: "index.xml"
-        menu:
-            main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: WiKi
-                  url: https://github.com/luanletien
-                - name: Discord
-                  url: https://discord.gg/
-
-    vn:
-        languageName: ":vietnam:"
-        languageAltTitle: Việt Nam
-        weight: 1
-        title: Lê Tiến Luân
-        taxonomies:
-          category: Danh mục
-          tag: tags
-          series: Series
-        profileMode:
-            enabled: true
-            homeInfoParams:
-            Title: Xin chào! Tôi là Luân"
-            subtitle: "Tôi là Luân! Rất vui được chia sẽ những hiểu biết của tôi về lính vực Data Analyst với mọi người!"
-            buttons:
-                - name: Bài Viết
-                  url: Blog
-                - name: CV
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-  
-            socialIcons:
-                  - name: github
-                    url: "https://github.com/luanletien"
-                  - name: KoFi
-                    url: "https://luanletien.com"
-                  - name: linkedin
-                    url: "index.xml"
-                  - name: Rss
-                    url: "index.xml"
-        menu:
-            main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: WiKi
-                  url: https://github.com/luanletien
-                - name: Discord
-                  url: https://discord.gg/
-
-  params: 
-    comments: true
-# nếu muốn trang đầu có hiển thị bài viết ở trang nhất
-# params:                  
-#   homeInfoParams:
-#           Title: "Xin chào! Tôi là Luân"
-#           Content: >
-#                Tôi là một Data Analyst và rất vui được giới thiệu về công việc của mình. Với kỹ năng phân tích dữ liệu và sự am hiểu về số liệu, tôi có khả năng chuyển đổi những dữ liệu phức tạp thành thông tin hữu ích và cung cấp những hướng dẫn định hướng quan trọng cho doanh nghiệp.
-#   socialIcons:
-#         - name: github
-#           url: "https://github.com/luanletien"
-#         - name: KoFi
-#           url: "https://luanletien.com"
-#         - name: linkedin
-#           url: "index.xml"
-#         - name: Rss
-#           url: "index.xml"
-
-  
+  vn:
+    languageName: ":vietnam:"
+    languageAltTitle: Việt Nam
+    weight: 1
+    title: Lê Tiến Luân
+    taxonomies:
+      category: Danh mục
+      tag: tags
+      series: Series
+    profileMode:
+      enabled: true
+      homeInfoParams:
+        Title: Xin chào! Tôi là Luân"
+        subtitle: "Tôi là Luân! Rất vui được chia sẽ những hiểu biết của tôi về lĩnh vực Data Analyst với mọi người!"
+        buttons:
+          - name: Bài Viết
+            url: Blog
+          - name: CV
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+      socialIcons:
+        - name: github
+          url: "https://github.com/luanletien"
+        - name: KoFi
+          url: "https://luanletien.com"
+        - name: linkedin
+          url: "index.xml"
+        - name: Rss
+          url: "index.xml"
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: WiKi
+          url: https://github.com/luanletien
+        - name: Discord
+          url: https://discord.gg/
