@@ -24,6 +24,7 @@ languages:
     languageAltTitle: Việt Nam
     weight: 1
     title: Lê Tiến Luân
+    subtitle: "Tôi là Luân! Rất vui được chia sẽ những hiểu biết của tôi về lĩnh vực Data Analyst với mọi người!"
     taxonomies:
       category: Danh mục
       tag: tags
