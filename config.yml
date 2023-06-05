@@ -1,6 +1,6 @@
 baseURL: https://luanletien.github.io
-languageCode: vietnam
-title: Le Tien Luan
+defaultContentLanguage: "vn"
+title: Lê Tiến Luân
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -42,7 +42,7 @@ languages:
     languageName: ":en:"
     languageAltTitle: English
     weight: 2
-    title: PaperModL2
+    title: Luan Le Tien
     taxonomies:
       category: categories
       tag: tags
