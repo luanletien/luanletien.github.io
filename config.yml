@@ -17,7 +17,7 @@ minify:
     # minifyOutput: true
 
 languages:
-    en:
+    vn:
         languageName: ":vietnam:"
         weight: 1
         taxonomies:
@@ -41,7 +41,7 @@ languages:
                   url: https://discord.gg/ahpmTvhVmp
 
 
-    fr:
+    en:
         languageName: ":en:"
         languageAltTitle: English
         weight: 2
